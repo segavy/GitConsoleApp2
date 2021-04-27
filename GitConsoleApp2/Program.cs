@@ -20,7 +20,7 @@ namespace GitConsoleApp2 {
     {
         static void Main(string[] args)
         {
-            Animal cat = new Animal(4);
+
             Console.WriteLine("Hello World!");
         }
     }
